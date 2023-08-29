@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Shawani!
 
 <!--
 **shawani-k/shawani-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+Upcoming software engineer with an interest in all things tech, science, art, videogames and media ✨
+
+- 🌱 I’m currently learning advanced Python and computer science concepts
+- 📫 How to reach me: email or linkedin
+- 😄 Pronouns: they/she
+- ⚡ Fun fact: I'm a polyglot! I can speak English, Spanish and Catalan fluently, Punjabi and Hindi conversationally and 
+currently am working on my Japanese!
