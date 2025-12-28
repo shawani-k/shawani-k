@@ -23,3 +23,7 @@ I'm a software engineer with an interest in all things tech, science, art, video
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I'm a polyglot! I can speak English, Spanish and Catalan fluently, Punjabi and Hindi conversationally and 
 currently am working on my Japanese!
+
+# Languages and tools:
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,swift,html,css,aws,jenkins,gradle,docker,django,github,gherkin,latex,matlab,mysql,regex,replit,vscode)](https://skillicons.dev)
