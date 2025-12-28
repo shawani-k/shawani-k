@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 -->
 
-Upcoming junior software engineer with an interest in all things tech, science, art, videogames and media ✨
+I'm a software engineer with an interest in all things tech, science, art, videogames and media ✨
 
-- 🌱 I’m currently learning advanced Python and computer science concepts
+- 🌱 I’m currently learning Swift and AWS
 - 📫 How to reach me: email or linkedin
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I'm a polyglot! I can speak English, Spanish and Catalan fluently, Punjabi and Hindi conversationally and 
